@@ -54,4 +54,4 @@ Now run the following command to install Django
 - [djangogirls](https://tutorial.djangogirls.org/en/django_installation/)
 - [rest-framework](https://www.django-rest-framework.org/)
 # Project Images
-![Project-Images](images/project images.jpg)
+![Project-Images](<https://github.com/Badhansen/djangoapi/tree/main/images/project images.jpg>)
